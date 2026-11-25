@@ -1,0 +1,1 @@
+{"description":"The Excuse My Agent Gave Me — one-line entry for make.fun","license":"MIT","main":"main.ts","name":"makefun-excuse-my-agent","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
